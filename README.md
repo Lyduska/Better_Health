@@ -1,6 +1,8 @@
 # Better_Health 
 Chronic diseases in America, 4 highest specific categories, 3 risk factors and what can we do to change cronic disease in USA. Cost of chronic disease overall on our healthcare system, looking at data NHE from several decades 1960 - 2022. How much chronic diseases have increased in population & how they affect specific every state. My focus is data from CDC, FDA, and data from National Center of Education Statistics
 
+### [Visuals Report](https://app.powerbi.com/view?r=eyJrIjoiNTBjOTBjNmEtYjgyNy00MzcxLWJkZmItYzc0MTUxOGViZGM3IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
+
 ### Datasets
 
 1)	CDC websites: chronic disease (looking at specific categories, creating data frames, tables, visualization and at the end using interactive maps) https://www.cdc.gov/chronic-disease/data-research/facts-stats/index.htmlhttps://www.cdc.gov/chronic-disease/data-research/facts-stats/index.html
@@ -12,15 +14,9 @@ Chronic diseases in America, 4 highest specific categories, 3 risk factors and w
 4)	I downloaded CSV for 2022 (looking at learning disabilities data by state) https://data.ed.gov/dataset/idea-section-618-state-part-b-child-count-and-educational-environments/resources?resource=91dfcdc0-7e9b-4945-8319-684f9ffd2a24
 
 
-3 websites as a web suggestion are provided at the end of my presentation for medical professionals Keto/Carnivore lifestle
-https://carnivore.diet/dr-shawn-baker-md/Shawn 
-
-https://thesmhp.org/stay-off-my-operating-table-philip-ovadia-md/
-
-www.drberry.com
 
 
-### Instructions
+### Questions
 
 1. How much has National Health Expenditure changed since 1960?  Do analysis of the cost versus population. 
 2. Which states are the leaders in specific chronic diseases according to 4 specific categories - heart disease, cancer, diabetes/obesity, cognitive disability? 
@@ -30,3 +26,12 @@ www.drberry.com
 6. Is there any correlation between currrent cigatette smoking versus states with the highest high blood pressure? Make a scatterplot.
 7. What does CDC reccomend, how to improve chronic disease in the USA and what can we do as individuals?
 
+
+### Recommendations
+
+3 websites as suggestion for healthy lifestyle for medical professionals Keto/Carnivore lifestle
+https://carnivore.diet/dr-shawn-baker-md/Shawn 
+
+https://thesmhp.org/stay-off-my-operating-table-philip-ovadia-md/
+
+www.drberry.com
