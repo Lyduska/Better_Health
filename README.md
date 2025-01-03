@@ -30,7 +30,8 @@ My focus is data from CDC, FDA, and data from National Center of Educational Sta
 
 ### Recommendations
 
-3 websites as suggestion for healthy lifestyle for medical professionals Keto/Carnivore lifestle
+3 websites as suggestion for healthy lifestyle for medical professionals Keto/Carnivore 
+
 https://carnivore.diet/dr-shawn-baker-md/Shawn 
 
 https://thesmhp.org/stay-off-my-operating-table-philip-ovadia-md/
