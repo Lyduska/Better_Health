@@ -1,5 +1,8 @@
 # Better_Health 
-Chronic diseases in America, 4 highest specific categories, 3 risk factors and what can we do to change cronic disease in USA. Cost of chronic disease overall on our healthcare system, looking at data NHE from several decades 1960 - 2022. How much chronic diseases have increased in population & how they affect specific every state. My focus is data from CDC, FDA, and data from National Center of Education Statistics
+Chronic diseases in America, 4 highest categories, 3 risk factors and what can we as individuals do to improve chronic disease in USA.
+Cost of chronic disease overall on our healthcare system, looking at data NHE from several decades 1960 - 2022.
+How much chronic disease have increased in population & how they affect every state.
+My focus is data from CDC, FDA, and data from National Center of Educational Statistics.
 
 ### [Visuals Report](https://app.powerbi.com/view?r=eyJrIjoiNTBjOTBjNmEtYjgyNy00MzcxLWJkZmItYzc0MTUxOGViZGM3IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 
@@ -12,8 +15,6 @@ Chronic diseases in America, 4 highest specific categories, 3 risk factors and w
 3)	I downloaded data for specific chronic diseases (creating tables and using a visualization/map) https://dev.socrata.com/foundry/data.cdc.gov/vgc8-iyc4
 
 4)	I downloaded CSV for 2022 (looking at learning disabilities data by state) https://data.ed.gov/dataset/idea-section-618-state-part-b-child-count-and-educational-environments/resources?resource=91dfcdc0-7e9b-4945-8319-684f9ffd2a24
-
-
 
 
 ### Questions
